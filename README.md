@@ -6,4 +6,16 @@
 
 # Data Analyst
 
-- Yonsei Graduate School Master´s Course (DataMining Lab)
+- Yonsei Graduate School Master´s Course(DataMining Lab)
+
+# Interest
+
+- Financial Data Analysis
+
+# Awards
+
+- 2022년 통계데이터 분석·활용대회 포스터 부문 우수상
+
+# Blog
+
+- h
