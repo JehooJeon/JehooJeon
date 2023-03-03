@@ -21,4 +21,4 @@
 
 ### Blog
 
-- h
+- 후's 데이터 분석(https://jeonjehoo.tistory.com/)
