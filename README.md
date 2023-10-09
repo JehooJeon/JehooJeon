@@ -7,7 +7,8 @@
 ### Data Analyst
 
 - Yonsei Graduate School Master´s Course(DataMining Lab)
-- Python, R, SQL, Tableau
+- Department of Statistics
+- Python, R, SAS, SQL
 
 ### Interest
 
@@ -18,6 +19,12 @@
 ### Awards
 
 - 2022년 통계데이터 분석·활용대회 포스터 부문 우수상
+
+### Certificate
+
+- ADsP
+- SQLD
+- 빅데이터분석기사
 
 ### Blog
 
