@@ -7,14 +7,14 @@
 ### Data Analyst
 
 - Yonsei Graduate School Master´s Course(DataMining Lab)
-- Department of Statistics
-- Python, R, SAS, SQL
+- Department of Applied Statistics
+- Python, SQL, SAS
 
 ### Interest
 
-- Financial Data Analysis
+- Data Analysis, Data Science
 - Machine Learning, Deep Learning
-- Weight Training
+- Hiking, Weight Training
 
 ### Awards
 
