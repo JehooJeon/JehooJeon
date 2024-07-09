@@ -8,6 +8,7 @@
 
 - Yonsei Graduate School Master´s Course(DataMining Lab)
 - Department of Applied Statistics
+- SSAFY 12th Data Track
 - Python, SQL, SAS
 
 ### Interest
