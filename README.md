@@ -7,11 +7,14 @@
     
   <!-- Title Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=24&pause=1000&center=true&vCenter=true&width=435&height=50&lines=Hello%2C+I'm+Jehoo+Jeon;Research+on+Deep+Learning" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=24&pause=1000&center=true&vCenter=true&width=435&height=50&lines=Hello%2C+I'm+Jehoo+Jeon;Research+on+Data+Analysis;Research+on+Machine+Learning" alt="Typing SVG" /></a>
 
   <!-- My snake -->
   <img src="https://github.com/JehooJeon/JehooJeon/blob/output/github-snake-dark.svg" width="100%">
 
+</div>
+
+<div>
   <!--Body-->	
   ## About Me
 	
