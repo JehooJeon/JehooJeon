@@ -24,7 +24,6 @@
   - Yonsei Graduate School Master´s Course(DataMining Lab)
   - Department of Applied Statistics
   - SSAFY 12th Data Track
-  - Python, SQL, SAS, Tableau, Google Analytics
 
   ### Interest
 
@@ -34,6 +33,7 @@
   ### Experience
   - 건강보험심사평가원 현장실습 (2019. 01. ~ 2019. 02.)
   - 삼성 청년 SW 아카데미 (2024. 07. ~ 2025. 06.)
+  - (주)뉴파워프라즈마 (2025. 08. ~ 현재)
 
   ### Project
   - 돌발성난청증후군 환자 개인화 예후 예측 연구 (2023. 01. ~ 2023. 12.)
@@ -59,14 +59,7 @@
 
   ## Github Stats
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JehooJeon&theme=nord_dark)
-
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JehooJeon&theme=nord_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JehooJeon&theme=nord_dark)
-
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JehooJeon&theme=nord_dark)
-
-  ## BOJ Rating
-  [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=jjh0211sg)](https://solved.ac/jjh0211sg)
 
   <!-- Footer banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&text=&fontSize=0" width="100%"/>
